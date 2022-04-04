@@ -1,0 +1,1 @@
+For BiLSTM model, the model is builded with a simple bidirectional LSTM layer. Here, batch size is set to 128, so all sentences should pad to the same length.

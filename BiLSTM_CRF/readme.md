@@ -1,0 +1,1 @@
+For BiLSTM-CRF model, the model is builded with a bidirectional LSTM layer and a CRF(conditional random field) layer. A CRF layer is used for more accurate classification. Here, batch size is set to 1, so there is no need to pad each sentence to the same length, but this training process will take a long time.
